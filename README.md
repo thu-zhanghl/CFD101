@@ -28,7 +28,9 @@
 
 > 特点：
 
-> ![](/assets/Pratt & Whitney J57 tuboannular combustor.png)特点：
+![](/assets/Pratt & Whitney J57 tuboannular combustor.png)
+
+> 特点：
 
 
 
