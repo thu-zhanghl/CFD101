@@ -29,7 +29,7 @@
 
 * [Fluent Meshing｜01 球阀](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486145&idx=1&sn=39654b13f38c378291c4cc9f13b5eba7&chksm=e8232869df54a17f13cf8b468187be884ea1a4bbe0c0009f4d23c8546a30a81347ba3bf52e6d&scene=21#wechat_redirect)
 
-* [「Fluent Meshing」几何处理](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485872&idx=1&sn=a16d2d000476d6245eb45375e2cf5a8a&chksm=e8232b18df54a20e8d74ff8738d1e880bc21339771a145cac690b5ea9369860fe319e16a45ba&scene=21#wechat_redirect)
+* [「Fluent Meshing」几何处理](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485872&idx=1&sn=a16d2d000476d6245eb45375e2cf5a8a&chksm=e8232b18df54a20e8d74ff8738d1e880bc21339771a145cac690b5ea9369860fe319e16a45ba&scene=21#wechat_redirect)  ✔
 
-
+![](/assets/fluentmeshing.png)
 
