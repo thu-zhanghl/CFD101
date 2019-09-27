@@ -1,6 +1,6 @@
 # Summary
 
-* [v](README.md)
+* [Awesome-CFD](README.md)
 * [CFD-Case案例分析](cfd-casean-li-fen-xi.md)
 
 ## CFD基础知识
