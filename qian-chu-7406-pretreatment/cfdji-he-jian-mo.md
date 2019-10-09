@@ -18,6 +18,10 @@
 
 # SCDM
 
+* [汉泰科技SCDM培训课程](/www.sinoflow.com.cn/search.php?key=scdm)
+
+
+
 * [SCDM｜几何参数化](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486086&idx=1&sn=b99f20e90243b35975151bc3540e12d9&chksm=e823282edf54a138b9581df97a28baa1dbfaadbdbe7ddb52c3e9b8611b8d466a2bc4f8804037&scene=21#wechat_redirect)
 
 * [【SCDM】输出网格至Fluent](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486025&idx=1&sn=ea2a10ad634e06fee099c35179aeb49a&chksm=e82328e1df54a1f745f424e9aa989460ddd35ee8693ca95d670e2cfd21e8eb4cdb9126a015f6&scene=21#wechat_redirect)
