@@ -12,6 +12,7 @@
 
 ## 前处理-Pretreatment
 
+* [CFD几何建模](qian-chu-7406-pretreatment/cfdji-he-jian-mo.md)
 * [CFD网格划分](qian-chu-7406-pretreatment/cfdwang-ge-hua-fen.md)
 
 ## 计算求解-Solving
