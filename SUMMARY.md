@@ -17,5 +17,7 @@
 
 ## 计算求解-Solving
 
+* [Solving-模型选取](ji-suan-qiu-89e3-solving/solvingmo-xing-xuan-qu.md)
+
 ## 后处理-PostProcessing
 
