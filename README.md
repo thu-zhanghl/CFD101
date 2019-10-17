@@ -15,12 +15,19 @@
 
 #### ⭕前处理-Pretreatment
 
+##### 💤CFD几何建模
+
+©参考资料:
+
+
+
+
+
 ##### 💤CFD网格划分
 
 ©参考资料:
 
 * 《ANSYS ICEM CFD网格划分实例详解》
-* [CFD之道](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486237&idx=2&sn=a3c103f2a994d72eb2b28a04d6bb9fb9&chksm=e82329b5df54a0a382f8134aec9f3271d39da99f2397278d3cbe2620e8c7936151b8a88b1d4d&mpshare=1&scene=1&srcid=092797b3aqIsXe3CHJU9kOw3&sharer_sharetime=1569545534624&sharer_shareid=d7f0bb1247526b0db872095e17998a37&key=abb696fd3dfcc4bae2b41250d42113e290b83cc5045badd9892786ca0aba5bcc1744e68c62216c8f21b4335fdbe5b359e875a63cefd70a4f331379f03bf0f217a52852b3b5725b1c06be1b5c948a8fa2&ascene=1&uin=MTYxNDU2MjkxNQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=3Oqklv3ZU2FY02JxDfaTp76hiKqNP1Ohv8I%2BwwumIZxKTWye1FVbDVglf8BtO6km)
 
 ##### Fluent Meshing案例
 
@@ -59,8 +66,6 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 * **网格生成**。包括面网格重构及体网格生成。其基本操作功能主要通过Mesh菜单中的菜单项来完成。在Fluent Meshing中，通常在进行体网格划分之前，先产生高质量的面网格。
 
 * **切换操作模式**。当体网格生成完毕后，即可将Fluent切换至Solution模式。
-
-
 
 #### ⭕计算求解-Solving
 
