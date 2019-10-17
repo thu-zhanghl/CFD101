@@ -8,16 +8,3 @@
 
 ## CFD基础知识
 
-* [基础知识总结](cfdji-chu-zhi-shi/ji-chu-zhi-shi-zong-jie.md)
-
-## 前处理-Pretreatment
-
-* [CFD几何建模](qian-chu-7406-pretreatment/cfdji-he-jian-mo.md)
-* [CFD网格划分](qian-chu-7406-pretreatment/cfdwang-ge-hua-fen.md)
-
-## 计算求解-Solving
-
-* [Solving-模型选取](ji-suan-qiu-89e3-solving/solvingmo-xing-xuan-qu.md)
-
-## 后处理-PostProcessing
-
