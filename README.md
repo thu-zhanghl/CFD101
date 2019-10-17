@@ -1,31 +1,35 @@
 # ⛵Awesome-CFD
 
-#### 🅰微信公众号
+## 🅰资源推荐
+
+### 🔝微信公众号
 
 * CFD之道
 * CFD界
 * CFD之仿真区
 * 南流坊
 
-#### 🅱书籍/视频教程
+## 🅱书籍/视频教程
 
-#### ⭕CFD基础知识
+### ⭕CFD基础知识
 
 * 【小白的CFD之旅】小结及预告：[https://www.cnblogs.com/LSCAX/p/6358258.html](https://www.cnblogs.com/LSCAX/p/6358258.html)
 
-#### ⭕前处理-Pretreatment
+### ⭕前处理-Pretreatment
 
-##### 💤CFD几何建模
+#### 💤CFD几何建模
 
-©参考资料:
+> ©参考资料:
 
-##### 💤CFD网格划分
+##### SpaceClaim\(SCDM\)
 
-©参考资料:
+#### 💤CFD网格划分
 
-* 《ANSYS ICEM CFD网格划分实例详解》
+> ©参考资料:
+>
+> * 《ANSYS ICEM CFD网格划分实例详解》
 
-##### Fluent Meshing案例
+##### 💤Fluent Meshing案例
 
 * [Fluent Meshing｜11 几何导入](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486205&idx=1&sn=b4b02e426525fdde49b870770c8b726d&chksm=e8232855df54a143072e70e9ba797816b885dbe77a770be1f7d93d8c1268f0f19c56d0940b59&scene=21#wechat_redirect)
 
@@ -63,9 +67,9 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 
 * **切换操作模式**。当体网格生成完毕后，即可将Fluent切换至Solution模式。
 
-#### ⭕计算求解-Solving
+### ⭕计算求解-Solving
 
-##### 💦湍流模型
+#### 💦湍流模型
 
 * [绕不开的湍流模型](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483801&idx=1&sn=f680d25df0da2c6b1cb688a2fe8ab610&chksm=e8232331df54aa2787296ace97d587ef3ff034904fde2b08a7e2730a3639af2d8a2b60c02247&scene=21#wechat_redirect)
 * [绕不开的湍流模型（续）](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483803&idx=1&sn=e5dbf5237450e7b67ab55ac7be887342&chksm=e8232333df54aa2510aaeb146b42c0ddb7bf643c20ed9c62316c2b8cabb9b7228c62e546bb1e&scene=21#wechat_redirect)
@@ -73,7 +77,7 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 * [湍流参数](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484015&idx=1&sn=d79b512fbe40d6880252643aa55faa32&chksm=e82320c7df54a9d189487e227b0dc4de0e981bdda4639121b0ed585efa0eeec5462f811e76ec&scene=21#wechat_redirect)
 * [选用合适的湍流模型](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483792&idx=1&sn=31ad0da456dabaa4b0f558c20f6897d3&chksm=e8232338df54aa2e30fc86cbedf613bc4419ab5edb57cdd768b3fd55bdddc5953469e2b65d1d&scene=21#wechat_redirect)
 
-#### ⭕后处理-PostProcessing
+### ⭕后处理-PostProcessing
 
 
 
