@@ -6,5 +6,3 @@
 * [CFD-Case案例分析](cfd-casean-li-fen-xi.md)
 * [Electron](electron.md)
 
-## CFD基础知识
-
