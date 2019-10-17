@@ -25,10 +25,6 @@
 
 ###### **CFD之道**
 
-
-
-
-
 #### 💤CFD网格划分
 
 > ©参考资料:
@@ -77,6 +73,13 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 * [选用合适的湍流模型](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483792&idx=1&sn=31ad0da456dabaa4b0f558c20f6897d3&chksm=e8232338df54aa2e30fc86cbedf613bc4419ab5edb57cdd768b3fd55bdddc5953469e2b65d1d&scene=21#wechat_redirect)
 
 ### ⭕后处理-PostProcessing
+
+#### 💫Tecplot
+
+CFD之道
+
+* [【软件速递】Tecplot 360](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484212&idx=1&sn=49dd58748eb7afdcd19eabb24c02de87&chksm=e823219cdf54a88a2686fdbc6cd89ab61d053578368463abad827bf942fd897469d53dbf1f17&scene=21#wechat_redirect)
+* [Tecplot制作等值线图](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484208&idx=2&sn=a29628e66cb7939560174a83151ba221&chksm=e8232198df54a88e364b64457b826eb05d9e0727a367923419bbcab4f002a5663a20babfe5e5&scene=21#wechat_redirect)
 
 ## 🆎CFD案例
 
