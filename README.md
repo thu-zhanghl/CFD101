@@ -81,7 +81,7 @@ CFD之道
 * [【软件速递】Tecplot 360](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484212&idx=1&sn=49dd58748eb7afdcd19eabb24c02de87&chksm=e823219cdf54a88a2686fdbc6cd89ab61d053578368463abad827bf942fd897469d53dbf1f17&scene=21#wechat_redirect)
 * [Tecplot制作等值线图](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484208&idx=2&sn=a29628e66cb7939560174a83151ba221&chksm=e8232198df54a88e364b64457b826eb05d9e0727a367923419bbcab4f002a5663a20babfe5e5&scene=21#wechat_redirect)
 
-官方文档：http://download.tecplot.com/360/current/360\_getting\_started.pdf
+官方文档：[http://download.tecplot.com/360/current/360\_getting\_started.pdf](http://download.tecplot.com/360/current/360_getting_started.pdf)
 
 ## 🆎CFD案例
 
