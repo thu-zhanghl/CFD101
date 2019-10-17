@@ -83,65 +83,23 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 
 ### 💥燃烧案例
 
-[【燃烧案例】01：燃烧器（续）](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484656&idx=2&sn=5b741b62c7faada2d0ef363877cf9f8d&scene=21#wechat_redirect)
+©参考资料:
 
-  
+> * CFD之道
 
-
-[【燃烧案例】01：燃烧器](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484656&idx=1&sn=d8b83623fd77262508046ac63b643a15&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】02：BERL燃烧器](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484663&idx=1&sn=3eef05c07423b49b3cafbb9113e30b49&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】03：燃烧器预混燃烧](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484674&idx=1&sn=c0fa461bba112b1d36cf3b30af4f032e&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】04：PDF燃烧\[1/2\]](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484684&idx=1&sn=673ed6cf5994bd0561e0975e85d8b589&scene=21#wechat_redirect)
-
-  
+* [【燃烧案例】01：燃烧器（续）](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484656&idx=2&sn=5b741b62c7faada2d0ef363877cf9f8d&scene=21#wechat_redirect)
+* [【燃烧案例】01：燃烧器](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484656&idx=1&sn=d8b83623fd77262508046ac63b643a15&scene=21#wechat_redirect)
+* [【燃烧案例】02：BERL燃烧器](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484663&idx=1&sn=3eef05c07423b49b3cafbb9113e30b49&scene=21#wechat_redirect)
+* [【燃烧案例】03：燃烧器预混燃烧](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484674&idx=1&sn=c0fa461bba112b1d36cf3b30af4f032e&scene=21#wechat_redirect)
+* [【燃烧案例】04：PDF燃烧\[1/2\]](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484684&idx=1&sn=673ed6cf5994bd0561e0975e85d8b589&scene=21#wechat_redirect)
+* [【燃烧案例】04：PDF燃烧\[2/2\]](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484684&idx=2&sn=c0237c5ec248b6f9a0fab06735f13928&scene=21#wechat_redirect)
+* [【燃烧案例】05：液体混合化学反应](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484692&idx=1&sn=fcab241ce220affec384d55108f1ae5e&scene=21#wechat_redirect)
+* [【燃烧案例】06：预混燃烧](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484692&idx=2&sn=648bbecb5a4d6cc6b583c3659b0c2f62&scene=21#wechat_redirect)
+* [【燃烧案例】07：射流燃烧](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484701&idx=1&sn=df195beaf8cb56ca931e7aae0d04e96c&scene=21#wechat_redirect)
+* [【燃烧案例】08：煤燃烧](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484701&idx=2&sn=bb2e17ebd32fef632c6393727f2041c9&scene=21#wechat_redirect)
+* [【燃烧案例】09：EDC模型](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484710&idx=1&sn=ee0e97c595347d4ecef20eed98a4fc29&scene=21#wechat_redirect)
+* [【燃烧案例】10：表面化学反应](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484710&idx=2&sn=11618fb38c61958d0a4d8bc274be66a5&scene=21#wechat_redirect)
+* [【燃烧案例】11：烟灰模拟](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484711&idx=1&sn=2bdb8fd90ec898074c43de96d927a91e&scene=21#wechat_redirect)
 
 
-[【燃烧案例】04：PDF燃烧\[2/2\]](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484684&idx=2&sn=c0237c5ec248b6f9a0fab06735f13928&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】05：液体混合化学反应](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484692&idx=1&sn=fcab241ce220affec384d55108f1ae5e&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】06：预混燃烧](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484692&idx=2&sn=648bbecb5a4d6cc6b583c3659b0c2f62&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】07：射流燃烧](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484701&idx=1&sn=df195beaf8cb56ca931e7aae0d04e96c&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】08：煤燃烧](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484701&idx=2&sn=bb2e17ebd32fef632c6393727f2041c9&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】09：EDC模型](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484710&idx=1&sn=ee0e97c595347d4ecef20eed98a4fc29&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】10：表面化学反应](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484710&idx=2&sn=11618fb38c61958d0a4d8bc274be66a5&scene=21#wechat_redirect)
-
-  
-
-
-[【燃烧案例】11：烟灰模拟](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484711&idx=1&sn=2bdb8fd90ec898074c43de96d927a91e&scene=21#wechat_redirect)
 
