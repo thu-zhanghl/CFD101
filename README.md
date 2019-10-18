@@ -101,7 +101,9 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 
 ### 🍩CFD案例库
 
+#### 🅰COMSOL
 
+* https://cn.comsol.com/models
 
 ### 💥燃烧案例
 
