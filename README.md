@@ -51,40 +51,29 @@
 
 ###### **CFD仿真区**
 
-  
-●[【Fluent meshing基础练习01】FM基本工作流程](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247483838&idx=2&sn=6493ea82945eab53fa746b21c481022b&chksm=c066b965f7113073a2c044fce03106cb8959e91ebfb0b32a5ca6454ec97ff6331866a5d3bf23&scene=21#wechat_redirect)  
+●[【Fluent meshing基础练习01】FM基本工作流程](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247483838&idx=2&sn=6493ea82945eab53fa746b21c481022b&chksm=c066b965f7113073a2c044fce03106cb8959e91ebfb0b32a5ca6454ec97ff6331866a5d3bf23&scene=21#wechat_redirect)
 
-
-●[【Fluent meshing基础课程01】Fluent  meshing简介](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247483838&idx=1&sn=d32e994ef109c917f34d5b591ddd4a4b&chksm=c066b965f71130733062de953c8b7022447109d0a1fe9363628ecd62ab567f36ae176976e3cd&scene=21#wechat_redirect)
+●[【Fluent meshing基础课程01】Fluent  meshing简介](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247483838&idx=1&sn=d32e994ef109c917f34d5b591ddd4a4b&chksm=c066b965f71130733062de953c8b7022447109d0a1fe9363628ecd62ab567f36ae176976e3cd&scene=21#wechat_redirect)
 
 ●[【Fluent meshing基础练习02】FM图形用户界面介绍](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247483861&idx=2&sn=42d61bf12027ea444b4f924c4d6b0a83&chksm=c066b90ef71130186b4c8296163675ffc3fe547e948a67d392473aa746504e1f4106bf97b204&scene=21#wechat_redirect)
 
-●[【Fluent meshing基础课程02】Fluent meshing图形用户界面](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247483861&idx=1&sn=d86c9e28003d8004675194f08dc881a2&chksm=c066b90ef7113018c43f2072372dc19426ff60647b361bec96d348a776872af6e95281d3b496&scene=21#wechat_redirect)  
+●[【Fluent meshing基础课程02】Fluent meshing图形用户界面](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247483861&idx=1&sn=d86c9e28003d8004675194f08dc881a2&chksm=c066b90ef7113018c43f2072372dc19426ff60647b361bec96d348a776872af6e95281d3b496&scene=21#wechat_redirect)
 
+●[【Fluent meshing基础课程03】CAD几何输入选项](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484020&idx=1&sn=c967efb7df54b493858f77ec3a56dc76&chksm=c066baaff71133b9a93c21d14912ea2156c6dc265d6cc50887052e1d81ca5d8f59be89117a69&scene=21#wechat_redirect)
 
-●[【Fluent meshing基础课程03】CAD几何输入选项](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484020&idx=1&sn=c967efb7df54b493858f77ec3a56dc76&chksm=c066baaff71133b9a93c21d14912ea2156c6dc265d6cc50887052e1d81ca5d8f59be89117a69&scene=21#wechat_redirect)  
+●[【Fluent meshing基础练习03】CAD几何导入及网格划分](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484044&idx=1&sn=13419cabd2536557b95da0566126fb7a&chksm=c066ba57f71133410dfb56c97b5c14255eac250558fadcc24c32d217db749efc9a2fb2e0e8bf&scene=21#wechat_redirect)
 
+●[【Fluent meshing基础课程04】修复surface mesh  ](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484069&idx=1&sn=f7c88d2fe6198668d250088fd7ddbafe&chksm=c066ba7ef7113368cffa0b885901a7d2de3e060f9fd373e1f3ce0c663e0369627245c54c01f1&scene=21#wechat_redirect)
 
-●[【Fluent meshing基础练习03】CAD几何导入及网格划分](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484044&idx=1&sn=13419cabd2536557b95da0566126fb7a&chksm=c066ba57f71133410dfb56c97b5c14255eac250558fadcc24c32d217db749efc9a2fb2e0e8bf&scene=21#wechat_redirect)  
+●[【Fluent meshing基础练习04】表面网格修复](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484130&idx=1&sn=995b624acf912deb5adfbccfc9549aa1&chksm=c066ba39f711332fb43d310a69fe6c252b20bcda95109e68e606890cbaeb0e01c8dfd4597628&scene=21#wechat_redirect)
 
+●[【Fluent meshing基础课程05】表面重构Surface Remesh](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484187&idx=1&sn=526a6cc976327bb2fefa1ac791ac9c2a&chksm=c066bbc0f71132d6462bba8028293cdd3f07a0479646580acb56868a46d5b2ab71e361a4b47a&scene=21#wechat_redirect)
 
-●[【Fluent meshing基础课程04】修复surface mesh  
-](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484069&idx=1&sn=f7c88d2fe6198668d250088fd7ddbafe&chksm=c066ba7ef7113368cffa0b885901a7d2de3e060f9fd373e1f3ce0c663e0369627245c54c01f1&scene=21#wechat_redirect)
+●[【Fluent meshing基础练习05】多翼部件表面重构](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484338&idx=1&sn=dd9e7222aa16e5848a9557637263f719&chksm=c066bb69f711327fca1885dbf278844992ce17ab401725c29a64d80de18a42aa96be95ebcdb9&scene=21#wechat_redirect)
 
-●[【Fluent meshing基础练习04】表面网格修复](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484130&idx=1&sn=995b624acf912deb5adfbccfc9549aa1&chksm=c066ba39f711332fb43d310a69fe6c252b20bcda95109e68e606890cbaeb0e01c8dfd4597628&scene=21#wechat_redirect)  
+●[【Fluent meshing基础课程06】共轭传热网格-Jion/Intersect](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484357&idx=1&sn=6a69a92356959b09ecd8d8bda632032d&chksm=c066bb1ef711320801d3d1faddaf475ab17e06eb05ca1c453be2cccf72aefe18942b16d07f24&scene=21#wechat_redirect)
 
-
-●[【Fluent meshing基础课程05】表面重构Surface Remesh](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484187&idx=1&sn=526a6cc976327bb2fefa1ac791ac9c2a&chksm=c066bbc0f71132d6462bba8028293cdd3f07a0479646580acb56868a46d5b2ab71e361a4b47a&scene=21#wechat_redirect)  
-
-
-●[【Fluent meshing基础练习05】多翼部件表面重构](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484338&idx=1&sn=dd9e7222aa16e5848a9557637263f719&chksm=c066bb69f711327fca1885dbf278844992ce17ab401725c29a64d80de18a42aa96be95ebcdb9&scene=21#wechat_redirect)  
-
-
-●[【Fluent meshing基础课程06】共轭传热网格-Jion/Intersect](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484357&idx=1&sn=6a69a92356959b09ecd8d8bda632032d&chksm=c066bb1ef711320801d3d1faddaf475ab17e06eb05ca1c453be2cccf72aefe18942b16d07f24&scene=21#wechat_redirect)  
-
-
-●[【Fluent meshing基础练习06】共轭传热网格划分](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484408&idx=1&sn=82a6350e21a153ed91e4538db3866e07&chksm=c066bb23f71132353fc1602cb90b09a9b34ac7c614bddd2ea70e7ab173fdeeb180f6fa03a8db&scene=21#wechat_redirect)  
-
+●[【Fluent meshing基础练习06】共轭传热网格划分](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484408&idx=1&sn=82a6350e21a153ed91e4538db3866e07&chksm=c066bb23f71132353fc1602cb90b09a9b34ac7c614bddd2ea70e7ab173fdeeb180f6fa03a8db&scene=21#wechat_redirect)
 
 ●[【Fluent meshing基础课程7】准备几何](http://mp.weixin.qq.com/s?__biz=Mzg5ODA4NTMwMA==&mid=2247484579&idx=1&sn=174b1c0293ad008a93c62a2af853b630&chksm=c066bc78f711356e70257143b8fbb2031c80f667875cb41a67dd704aa17df2ffd355027a9c59&scene=21#wechat_redirect)
 
