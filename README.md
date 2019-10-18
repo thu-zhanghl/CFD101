@@ -125,6 +125,10 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 
 ### 计算求解-Solving
 
+#### 🎫边界处理
+
+* [「胡言」壁面函数与近壁面处理](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485535&idx=1&sn=cdc2903d975d89851c1442bf45ea41f7&chksm=e8232af7df54a3e13093ccbe4a22410fc69d056530e4facf6b472c0b55d1d6df4b69dad02274&scene=21#wechat_redirect)
+
 #### 💦湍流模型
 
 * [绕不开的湍流模型](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483801&idx=1&sn=f680d25df0da2c6b1cb688a2fe8ab610&chksm=e8232331df54aa2787296ace97d587ef3ff034904fde2b08a7e2730a3639af2d8a2b60c02247&scene=21#wechat_redirect)
