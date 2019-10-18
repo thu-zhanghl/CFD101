@@ -37,8 +37,6 @@
 [【网格】07：网格拉伸\(2\)](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484670&idx=2&sn=6178e1be29ae5149d084d6067ee5ec04&scene=21#wechat_redirect)  
 [【网格】07：网格拉伸\(3\)](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484670&idx=3&sn=b20a30b09b206eec63978490e831e62b&scene=21#wechat_redirect)
 
-# 7 Fluent UDF【4篇】
-
 #### 💤CFD网格划分
 
 > ©参考资料:
