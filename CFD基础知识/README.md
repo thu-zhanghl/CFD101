@@ -1,8 +1,18 @@
-# ⭕CFD基础知识
+CFD基础知识
 
 ## 🏊‍流体力学类
 
-# 
+##### 书籍目录
+
+* 《我所理解的流体力学》
+
+* 《普朗特流体力学基础》
+
+* 《流体力学通论》
+
+* 《流体力学及其工程应用》
+
+* 《Fluid Mechanics》
 
 ## Python CFD【11篇】
 
@@ -17,6 +27,4 @@
 [【Python-CFD】08：二维线性对流](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485080&idx=1&sn=dc47e420b6c5c5580014fad45e170593&scene=21#wechat_redirect)  
 [【Python-CFD】09：二维扩散](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485126&idx=1&sn=8a527e25f6c16977bf0c4541351e04e9&scene=21#wechat_redirect)  
 [【Python-CFD】10： 二维Burger方程](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485130&idx=1&sn=8db481203593bd0d1c92983d16901c97&scene=21#wechat_redirect)
-
-
 
