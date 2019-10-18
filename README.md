@@ -13,14 +13,14 @@
 
 ## 🅱书籍/视频/教程
 
-### ⭕CFD基础知识
+### CFD基础知识
 
 * 【小白的CFD之旅】小结及预告：[https://www.cnblogs.com/LSCAX/p/6358258.html](https://www.cnblogs.com/LSCAX/p/6358258.html)
 * [「胡言」CFD秘笈目录](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485930&idx=1&sn=7a1c5b26152a506f967b4fbdc41acf13&chksm=e8232b42df54a2548c44a1037297cd31baf74eff5a0a142c5b4cdc8d7b8afb062ded78e11533&scene=21#wechat_redirect)
 
-### ⭕前处理-Pretreatment
+### 前处理-Pretreatment
 
-#### 💤CFD几何建模及前处理
+#### CFD几何建模及前处理
 
 ##### SpaceClaim\(SCDM\)
 
@@ -38,13 +38,13 @@
 [【网格】07：网格拉伸\(2\)](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484670&idx=2&sn=6178e1be29ae5149d084d6067ee5ec04&scene=21#wechat_redirect)  
 [【网格】07：网格拉伸\(3\)](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484670&idx=3&sn=b20a30b09b206eec63978490e831e62b&scene=21#wechat_redirect)
 
-#### 💤CFD网格划分
+#### CFD网格划分
 
-##### 🔗网格划分
+##### 网格划分
 
 * [胡言｜网格生成软件](#)
 
-##### 💤Fluent Meshing
+##### Fluent Meshing
 
 ###### 🅰**CFD仿真区**
 
@@ -123,7 +123,7 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 
 * **切换操作模式**。当体网格生成完毕后，即可将Fluent切换至Solution模式。
 
-### ⭕计算求解-Solving
+### 计算求解-Solving
 
 #### 💦湍流模型
 
@@ -133,7 +133,7 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 * [湍流参数](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484015&idx=1&sn=d79b512fbe40d6880252643aa55faa32&chksm=e82320c7df54a9d189487e227b0dc4de0e981bdda4639121b0ed585efa0eeec5462f811e76ec&scene=21#wechat_redirect)
 * [选用合适的湍流模型](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483792&idx=1&sn=31ad0da456dabaa4b0f558c20f6897d3&chksm=e8232338df54aa2e30fc86cbedf613bc4419ab5edb57cdd768b3fd55bdddc5953469e2b65d1d&scene=21#wechat_redirect)
 
-### ⭕后处理-PostProcessing
+### 后处理-PostProcessing
 
 #### 💫CFD-Post
 
@@ -148,7 +148,7 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 
 ## 🆎CFD案例
 
-### 🍩CFD案例库
+### CFD案例库
 
 #### 🅰COMSOL
 
