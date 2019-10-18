@@ -82,6 +82,60 @@
 
 ###### 🅱**CFD之道**
 
+[【Fluent Meshing】03 多段翼面重构](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485152&idx=2&sn=49ddce810e84a1d7881cbc383a144bcf&scene=21#wechat_redirect)
+
+  
+
+
+[【Fluent Meshing】04：计算域提取](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485161&idx=1&sn=6ff57ef04bedd150de1486587a024f4e&scene=21#wechat_redirect)
+
+  
+
+
+[【Fluent Meshing】05：基础](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485176&idx=1&sn=5f9da29aff582aead7c794dfd6e4feb2&scene=21#wechat_redirect)
+
+  
+
+
+[【Fluent Meshing】06：特点](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485185&idx=1&sn=bc0b044f659db7341e3689d5a4cf54a4&scene=21#wechat_redirect)
+
+  
+
+
+[【Fluent Meshing】06：特点](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485176&idx=1&sn=5f9da29aff582aead7c794dfd6e4feb2&scene=21#wechat_redirect)
+
+  
+
+
+[【Fluent Meshing】07：导入CAD几何](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485186&idx=1&sn=6c6ef95c0d4edcd537b4d7265c206868&scene=21#wechat_redirect)
+
+  
+
+
+[【Fluent Meshing】08：尺寸功能](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485191&idx=1&sn=98e0f192671cad00c0518c6a6ea033f3&scene=21#wechat_redirect)
+
+  
+
+
+[【Fluent Meshing】09：面网格重构](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485197&idx=1&sn=f9ac9b834e2129c1e9246fae675ffe3e&scene=21#wechat_redirect)
+
+  
+
+
+[【Fluent Meshing】10：面网格修复](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485202&idx=1&sn=ef4a289ec194fbfc8be2975da3ba01cc&scene=21#wechat_redirect)
+
+  
+
+
+[Fluent Meshing的workflow方法](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485354&idx=1&sn=e60e03200c3fbf61274ffbd4c6706ca8&scene=21#wechat_redirect)
+
+  
+
+
+[Fluent Meshing基本操作流程](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485169&idx=1&sn=3575b0936629ddaa52176b5fe6b3ce79&scene=21#wechat_redirect)
+
+---
+
 * [Fluent Meshing｜11 几何导入](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486205&idx=1&sn=b4b02e426525fdde49b870770c8b726d&chksm=e8232855df54a143072e70e9ba797816b885dbe77a770be1f7d93d8c1268f0f19c56d0940b59&scene=21#wechat_redirect)
 * [Fluent Meshing｜10 网格转换](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486201&idx=1&sn=1029d32fa53aa35c85631278c0410632&chksm=e8232851df54a147f82a38d291909a5b9f1b6889b015c5394ce38803514e06edae117ae1fbab&scene=21#wechat_redirect)
 * [Fluent Meshing｜09 完整流程](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486197&idx=1&sn=ac857ab8282ba6d5ee75ba6a5c9e6393&chksm=e823285ddf54a14bbc5ca987985288fc9db1bc515869336a8d14a16b71f41506922d09eb8fed&scene=21#wechat_redirect)
@@ -94,6 +148,8 @@
 * [Fluent Meshing｜02 混合器](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486148&idx=2&sn=62bf41481b4dbd23c36017d9eaa87a08&chksm=e823286cdf54a17ac431670a75d958c1cac50a3ada8c828b7fa283df8fd8e0b69e4f84e5fbc3&scene=21#wechat_redirect)
 * [Fluent Meshing｜01 球阀](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486145&idx=1&sn=39654b13f38c378291c4cc9f13b5eba7&chksm=e8232869df54a17f13cf8b468187be884ea1a4bbe0c0009f4d23c8546a30a81347ba3bf52e6d&scene=21#wechat_redirect)
 * [「Fluent Meshing」几何处理](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485872&idx=1&sn=a16d2d000476d6245eb45375e2cf5a8a&chksm=e8232b18df54a20e8d74ff8738d1e880bc21339771a145cac690b5ea9369860fe319e16a45ba&scene=21#wechat_redirect)  
+
+---
 
 ![](/assets/fluentmeshing.png)
 
