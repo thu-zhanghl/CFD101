@@ -21,8 +21,6 @@
 
 ##### SpaceClaim\(SCDM\)
 
-> ©参考资料:
-
 ###### **CFD之道**
 
 [【案例】SCDM抽取内流计算域](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484886&idx=1&sn=90e7a78d6c42e39755e1de59da86019c&scene=21#wechat_redirect)  
@@ -38,10 +36,6 @@
 [【网格】07：网格拉伸\(3\)](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484670&idx=3&sn=b20a30b09b206eec63978490e831e62b&scene=21#wechat_redirect)
 
 #### 💤CFD网格划分
-
-> ©参考资料:
->
-> * 《ANSYS ICEM CFD网格划分实例详解》
 
 ##### 🔗网格划分
 
@@ -143,9 +137,7 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 
 ### 💥燃烧案例
 
-©参考资料:
-
-> * CFD之道
+##### CFD之道
 
 * [【燃烧案例】01：燃烧器（续）](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484656&idx=2&sn=5b741b62c7faada2d0ef363877cf9f8d&scene=21#wechat_redirect)
 * [【燃烧案例】01：燃烧器](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484656&idx=1&sn=d8b83623fd77262508046ac63b643a15&scene=21#wechat_redirect)
