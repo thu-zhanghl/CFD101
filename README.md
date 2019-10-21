@@ -128,6 +128,7 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 #### 🎫边界处理
 
 * [「胡言」壁面函数与近壁面处理](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485535&idx=1&sn=cdc2903d975d89851c1442bf45ea41f7&chksm=e8232af7df54a3e13093ccbe4a22410fc69d056530e4facf6b472c0b55d1d6df4b69dad02274&scene=21#wechat_redirect)
+* [胡言｜近壁面处理](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247486483&idx=1&sn=2286a9d0d1416994e31ff35b48c466df&chksm=e8232ebbdf54a7ad3243eb5a0c1c3cc4262ca40b6d6127dea79bfb993ed595a08d6719d1f347&scene=0&xtrack=1&key=1559c9758c58e7158112c71e02d790a4915ff3260c80193d077c4e6c330a91bd7a8882889d98938b211f70ca4d91f783ba71ef9758eb5e443aa09587968c8a0ef1eeec2840e79b92a707305e890e0466&ascene=1&uin=MTYxNDU2MjkxNQ%3D%3D&devicetype=Windows+10&version=62060833&lang=zh_CN&pass_ticket=8D7yL96V25wxfDZvvizZziyIKEzhriAVH6HpCpoZb8svIOG6hEj3r21LnUJLQMuF)
 
 #### 💦湍流模型
 
