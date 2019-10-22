@@ -140,15 +140,10 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 * [湍流参数](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484015&idx=1&sn=d79b512fbe40d6880252643aa55faa32&chksm=e82320c7df54a9d189487e227b0dc4de0e981bdda4639121b0ed585efa0eeec5462f811e76ec&scene=21#wechat_redirect)
 * [选用合适的湍流模型](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483792&idx=1&sn=31ad0da456dabaa4b0f558c20f6897d3&chksm=e8232338df54aa2e30fc86cbedf613bc4419ab5edb57cdd768b3fd55bdddc5953469e2b65d1d&scene=21#wechat_redirect)
 * 胡言｜Fluent湍流模型I
-
 * 胡言｜Fluent湍流模型II
-
 * 胡言｜Fluent湍流模型III
-
 * 胡言｜Fluent湍流模型IV
-
 * 胡言｜Fluent湍流模型V
-
 * 胡言｜ANSYS CFD湍流应用指南
 
 ### 后处理-PostProcessing
