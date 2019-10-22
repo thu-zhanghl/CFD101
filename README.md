@@ -30,10 +30,11 @@
 
 ###### 2019汉泰科技
 
-* [2019汉泰科技-ANSYS SCDM精品课程培训第一讲-SCDM核心技能](http://www.englab.com.cn/ANSYS%20SCDM%E7%B2%BE%E5%93%81%E8%AF%BE%E7%A8%8B%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%B8%80%E8%AE%B2-SCDM%E6%A0%B8%E5%BF%83%E6%8A%80%E8%83%BD.mp4)
+* [2019汉泰科技-ANSYS SCDM精品课程培训第一讲-SCDM核心技能](http://www.englab.com.cn/ANSYS SCDM精品课程培训第一讲-SCDM核心技能.mp4)
 
-* [2019汉泰科技-ANSYS SCDM精品课程培训第二讲-SCDM建立及修复几何](http://www.englab.com.cn/ANSYS%20SCDM%E7%B2%BE%E5%93%81%E8%AF%BE%E7%A8%8B%E5%9F%B9%E8%AE%AD%E7%AC%AC%E4%BA%8C%E8%AE%B2-SCDM%E5%BB%BA%E7%AB%8B%E5%8F%8A%E4%BF%AE%E5%A4%8D%E5%87%A0%E4%BD%95.mp4)
-* [2019汉泰科技-ANSYS SCDM精品课程培训第三讲-FEA\_CFD模型处理及模型参数化](http://www.englab.com.cn/%E7%AC%AC%E4%B8%89%E8%AE%B2FEA_CFD%E6%A8%A1%E5%9E%8B%E5%A4%84%E7%90%86%E5%8F%8A%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E5%8C%96.mp4)
+* [2019汉泰科技-ANSYS SCDM精品课程培训第二讲-SCDM建立及修复几何](http://www.englab.com.cn/ANSYS SCDM精品课程培训第二讲-SCDM建立及修复几何.mp4)
+
+* [2019汉泰科技-ANSYS SCDM精品课程培训第三讲-FEA\_CFD模型处理及模型参数化](http://www.englab.com.cn/第三讲FEA_CFD模型处理及模型参数化.mp4)
 
 ---
 
@@ -154,6 +155,7 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 * [绕不开的湍流模型（终）](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483803&idx=2&sn=83e0c77663a1510a6396b98488ef3a02&chksm=e8232333df54aa250bd6af54d97f1f7c59da530fbc011ff765558821109ba049297f7a0ea1db&scene=21#wechat_redirect)
 
 * [湍流参数](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247484015&idx=1&sn=d79b512fbe40d6880252643aa55faa32&chksm=e82320c7df54a9d189487e227b0dc4de0e981bdda4639121b0ed585efa0eeec5462f811e76ec&scene=21#wechat_redirect)
+
 * [选用合适的湍流模型](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247483792&idx=1&sn=31ad0da456dabaa4b0f558c20f6897d3&chksm=e8232338df54aa2e30fc86cbedf613bc4419ab5edb57cdd768b3fd55bdddc5953469e2b65d1d&scene=21#wechat_redirect)
 * 胡言｜Fluent湍流模型I
 * 胡言｜Fluent湍流模型II
