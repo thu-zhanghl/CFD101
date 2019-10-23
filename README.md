@@ -13,7 +13,8 @@
 
 * CFD中文网：[https://www.cfd-china.com](https://www.cfd-china.com)
 * 流体中文网：[https://www.cfluid.com](https://www.cfluid.com)
-* 东岳流体Openfoam：https://www.dyfluid.com
+* 东岳流体Openfoam：[https://www.dyfluid.com](https://www.dyfluid.com)
+* CFD-Online:https://www.cfd-online.com
 
 ## 🅱书籍/视频/教程
 
