@@ -36,9 +36,9 @@
 
 ###### 2019汉泰科技
 
-* [2019汉泰科技-ANSYS SCDM精品课程培训第一讲-SCDM核心技能](http://www.englab.com.cn/ANSYS SCDM精品课程培训第一讲-SCDM核心技能.mp4)
+* [2019汉泰科技-ANSYS SCDM精品课程培训第一讲-SCDM核心技能](http://www.englab.com.cn/ANSYS%20SCDM精品课程培训第一讲-SCDM核心技能.mp4)
 
-* [2019汉泰科技-ANSYS SCDM精品课程培训第二讲-SCDM建立及修复几何](http://www.englab.com.cn/ANSYS SCDM精品课程培训第二讲-SCDM建立及修复几何.mp4)
+* [2019汉泰科技-ANSYS SCDM精品课程培训第二讲-SCDM建立及修复几何](http://www.englab.com.cn/ANSYS%20SCDM精品课程培训第二讲-SCDM建立及修复几何.mp4)
 
 * [2019汉泰科技-ANSYS SCDM精品课程培训第三讲-FEA\_CFD模型处理及模型参数化](http://www.englab.com.cn/第三讲FEA_CFD模型处理及模型参数化.mp4)
 
