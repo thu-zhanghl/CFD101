@@ -34,7 +34,7 @@
 
 ---
 
-###### 2019汉泰科技
+###### 2019汉泰科技：http://www.bilibili.com/video/av63808418
 
 * [2019汉泰科技-ANSYS SCDM精品课程培训第一讲-SCDM核心技能](http://www.englab.com.cn/ANSYS SCDM精品课程培训第一讲-SCDM核心技能.mp4)
 
