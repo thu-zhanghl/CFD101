@@ -28,7 +28,7 @@
 
 #### CFD几何建模及前处理
 
-##### SpaceClaim\(SCDM\)
+##### SpaceClaim\(SCDM\)：http://www.spaceclaim.com/en/default.aspx
 
 链接: [https://pan.baidu.com/s/1woYtV5RJsuCnEsWjM62sQg&shfl=shareset](https://pan.baidu.com/s/1woYtV5RJsuCnEsWjM62sQg&shfl=shareset) 提取码: h3g7
 
