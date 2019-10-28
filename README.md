@@ -19,7 +19,7 @@
 
 ## 🅱书籍/视频/教程
 
-### CFD基础知识
+### [CFD基础知识](/CFD基础知识/)
 
 * 【小白的CFD之旅】小结及预告：[https://www.cnblogs.com/LSCAX/p/6358258.html](https://www.cnblogs.com/LSCAX/p/6358258.html)
 * [「胡言」CFD秘笈目录](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485930&idx=1&sn=7a1c5b26152a506f967b4fbdc41acf13&chksm=e8232b42df54a2548c44a1037297cd31baf74eff5a0a142c5b4cdc8d7b8afb062ded78e11533&scene=21#wechat_redirect)
