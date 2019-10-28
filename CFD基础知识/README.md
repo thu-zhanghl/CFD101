@@ -2,7 +2,7 @@
 
 ## 🏊‍流体力学类
 
-##### 书籍目录
+##### 📚书籍目录
 
 * 《我所理解的流体力学》
 
@@ -18,7 +18,11 @@
 
 ## 🏊‍计算流体力学类
 
-## Python CFD【11篇】
+##### 📚教程列表
+
+* 计算流体力学\_国科大\_李新亮 [课件](/CFD基础知识/计算流体力学_国科大_李新亮/)
+* 计算流体力学基础及其应用\(美.约翰D.安德森\)2007.pdf
+* * ## Python CFD【11篇】
 
 [关于Python-CFD系列的说明](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485045&idx=2&sn=9996948ed4f90d1b4e8cc868c9e11aeb&scene=21#wechat_redirect)  
 [【Python-CFD】01：说明](https://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485027&idx=1&sn=89fac854d832055199c92057556d62dc&scene=21#wechat_redirect)  
