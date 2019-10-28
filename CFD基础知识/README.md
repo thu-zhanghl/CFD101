@@ -34,11 +34,11 @@
   * 计算流体力学-从实践中学习
 * 计算流体力学讲义\(任玉新\)清华大学 基础篇
 
-## 代码与算法实现
+## 🎲代码与算法实现
 
 I do like CFD.：[Free CFD Codes](http://ossanworld.com/cfdbooks/cfdcodes.html)
 
-Algorithm Development for Computational Fluid Dynamics：http://www.hiroakinishikawa.com/niacfds/
+Algorithm Development for Computational Fluid Dynamics：[http://www.hiroakinishikawa.com/niacfds/](http://www.hiroakinishikawa.com/niacfds/)
 
 ### 🐍Python CFD【11篇】
 
