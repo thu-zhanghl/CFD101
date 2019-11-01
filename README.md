@@ -1,4 +1,7 @@
-<center><h2> ⛵Awesome-CFD</h2></center>
+<div align="center">
+    <h2> ⛵Awesome-CFD</h2>
+</div>
+
 
 ## 🅰资源
 
