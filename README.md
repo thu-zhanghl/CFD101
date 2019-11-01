@@ -4,7 +4,8 @@
 
 <br/>
 
-
+<br>
+<br>
 <div align="center">
 <img src="CFD基础知识/《我所理解的流体力学》高清插图/绕圆柱流动--随雷诺数增加的变化.gif">
 </div>
@@ -239,4 +240,6 @@ Fluent Meshing基本操作流程大致可以分成如下图所示几步：
 * [【Fluent实例】甲烷燃烧器](http://mp.weixin.qq.com/s?__biz=MzIyMzE2NDM1OQ==&mid=2247485774&idx=1&sn=2921868c275c45763d50d7628021cb3e&chksm=e8232be6df54a2f06e3946f7f755bb63ddccfa9e58f89d43a74f77d2c958eefc2afba4e27635&scene=21#wechat_redirect)
 
 
+### License
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
