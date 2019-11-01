@@ -1,5 +1,5 @@
 <div align="center">
-    <h2> ⛵Awesome-CFD</h2>
+    <h1> ⛵Awesome-CFD</h1>
 </div>
 
 
