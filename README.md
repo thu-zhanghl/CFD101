@@ -5,6 +5,8 @@
 <br/>
 <div align="center">
     <a href="https://github.com/thu-zhanghl/cfd-notes"> <img src="https://badgen.net/badge/icon/awesome-cfd?icon=awesome&label"></a>
+    <a href="https://github.com/thu-zhanghl/cfd-notes"> <img src="https://badgen.net/github/last-commit/thu-zhanghl/CFD-Notes"></a>
+    
 </div>
 <br>
 <br>
