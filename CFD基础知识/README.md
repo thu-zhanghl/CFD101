@@ -28,9 +28,10 @@
 
 ###### N-S方程
 
-* [Why global regularity for Navier-Stokes is hard-Teery Tao](https://terrytao.wordpress.com/2007/03/18/why-global-regularity-for-navier-stokes-is-hard/)
+* [Why global regularity for Navier-Stokes is hard-Teery Tao](https://terrytao.wordpress.com/2007/03/18/why-global-regularity-for-navier-stokes-is-hard/)
 
-* 
+* [What Makes the Hardest Equations in Physics So Difficult?](https://www.quantamagazine.org/what-makes-the-hardest-equations-in-physics-so-difficult-20180116/)
+
 ## 🏊‍计算流体力学类
 
 ##### 📚教程/书籍列表
