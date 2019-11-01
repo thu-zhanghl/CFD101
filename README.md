@@ -1,6 +1,9 @@
 <div align="center">
     <h1> ⛵Awesome-CFD</h1>
+    <img src="CFD基础知识/《我所理解的流体力学》高清插图/绕圆柱流动--随雷诺数增加的变化.gif">
 </div>
+<br/>
+<br/>
 
 
 ## 🅰资源
