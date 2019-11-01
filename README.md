@@ -3,7 +3,10 @@
 </div>
 
 <br/>
-
+<div align="center">
+    <a href="https://github.com/thu-zhanghl/cfd-notes"> <img src="https://badgen.net/badge/icon/awesome-cfd?icon=awesome&label"></a>
+</div>
+<br>
 <br>
 <br>
 <div align="center">
