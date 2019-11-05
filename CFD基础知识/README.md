@@ -28,7 +28,7 @@
 
 ###### N-S方程
 
-* [Why global regularity for Navier-Stokes is hard-Teery Tao](https://terrytao.wordpress.com/2007/03/18/why-global-regularity-for-navier-stokes-is-hard/)
+* [Why global regularity for Navier-Stokes is hard-Teery Tao](https://terrytao.wordpress.com/2007/03/18/why-global-regularity-for-navier-stokes-is-hard/) 陶哲轩关于N-S方程（组）的解的论述
 
 * [What Makes the Hardest Equations in Physics So Difficult?](https://www.quantamagazine.org/what-makes-the-hardest-equations-in-physics-so-difficult-20180116/)
 
